@@ -1,13 +1,13 @@
-# job_boards
-Extensive list of job boards and resources for finding internships and entry-level positions
+# Get a Job in Tech
+Extensive list of job boards and resources for finding tech internships and entry-level positions
 
 ## Top Job Boards (Ranked)
 
 1. **[Intern List](https://www.intern-list.com/)**
    - Curated list of internship opportunities
 
-2. **[Zero to Sudo (Instagram)](https://www.instagram.com/zero2sudo/)**
-   - Job postings and career resources on Instagram
+2. **[Zero2Sudo (Instagram)](https://www.instagram.com/zero2sudo/)**
+   - Check job/event postings on his Instagram! 
 
 3. **[Summer 2026 Internships by vanshb03](https://github.com/vanshb03/Summer2026-Internships)**
    - GitHub repository tracking Summer 2026 internship opportunities
