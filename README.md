@@ -1,2 +1,2 @@
 # job_boards
-Extensive list of jjob boards
+Extensive list of job boards
